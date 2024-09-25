@@ -1,0 +1,14 @@
+{
+  "name": "number_to_word",
+  "version": "1.0.0",
+  "description": "",
+  "main": "n2word.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
