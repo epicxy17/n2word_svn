@@ -60,4 +60,4 @@ console.log(pretvoriVBesede(106));       // sto šest
 console.log(pretvoriVBesede(207));       // dvesto sedem
 console.log(pretvoriVBesede(3000));      // tri tisoč
 console.log(pretvoriVBesede(5679));      // pet tisoč šesto devetinsedemdeset
-console.log(pretvoriVBesede(214355));     // deset tisoč
+console.log(pretvoriVBesede(214355));     // dvesto štirinajst tisoč tristo petinpetdeset
