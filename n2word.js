@@ -1,4 +1,4 @@
-const enice = ["", "ena", "dve", "tri", "štiri", "pet", "šest", "sedem", "osem", "devet"];
+const enice = ["", "ena", "dva", "tri", "štiri", "pet", "šest", "sedem", "osem", "devet"];
 const desetine = ["", "deset", "dvajset", "trideset", "štirideset", "petdeset", "šestdeset", "sedemdeset", "osemdeset", "devetdeset"];
 const teen = ["deset", "enajst", "dvanajst", "trinajst", "štirinajst", "petnajst", "šestnajst", "sedemnajst", "osemnajst", "devetnajst"];
 const stotine = ["", "sto", "dvesto", "tristo", "štiristo", "petsto", "šesto", "sedemsto", "osemsto", "devetsto"];
