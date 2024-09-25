@@ -1,7 +1,7 @@
 const enice = ["", "ena", "dva", "tri", "štiri", "pet", "šest", "sedem", "osem", "devet"];
 const desetine = ["", "deset", "dvajset", "trideset", "štirideset", "petdeset", "šestdeset", "sedemdeset", "osemdeset", "devetdeset"];
 const teen = ["deset", "enajst", "dvanajst", "trinajst", "štirinajst", "petnajst", "šestnajst", "sedemnajst", "osemnajst", "devetnajst"];
-const stotine = ["", "sto", "dvesto", "tristo", "štiristo", "petsto", "šesto", "sedemsto", "osemsto", "devetsto"];
+const stotine = ["", "sto", "dvesto", "tristo", "štiristo", "petsto", "šeststo", "sedemsto", "osemsto", "devetsto"];
 
 function pretvoriVBesede(stevilo) {
     if (stevilo === 0) return "nič";
